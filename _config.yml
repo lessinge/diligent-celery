@@ -51,3 +51,10 @@ defaults:
       type: pages
     values:
       layout: page
+social_links:
+  Twitter: lorem-ipsum
+  LinkedIn: lorem-ipsum
+  Googleplus: lorem-ipsum
+  GitHub: lorem-ipsum
+  link: lorem-ipsum
+  RSS: lorem-ipsum
